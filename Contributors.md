@@ -2001,6 +2001,7 @@ collins kiplangat mutai(Kiplaacollo)
 - [Lauren Gayle](https://github.com/LaurenGayle)
 - [Renan Ferro](https://github.com/ferrorenan)
 - [Erick Sarabia](https://github.com/ericksarabia)
+- [Fajril Pratama](https://github.com/zapellass123)
 
 
 <!-- prettier-ignore-end -->
